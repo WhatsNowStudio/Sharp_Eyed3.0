@@ -443,6 +443,11 @@ PlayerSettings:
     m_Devices:
     - None
     - cardboard
+  - m_BuildTarget: iOS
+    m_Enabled: 1
+    m_Devices:
+    - None
+    - cardboard
   m_BuildTargetEnableVuforiaSettings:
   - m_BuildTarget: Android
     m_Enabled: 1
