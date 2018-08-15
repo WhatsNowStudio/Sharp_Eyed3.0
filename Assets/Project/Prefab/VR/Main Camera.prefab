@@ -411,7 +411,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1975940875248686}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 1384774831, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
   m_Name: 
@@ -427,8 +427,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 51
-        y: 123
+        x: 65
+        y: 101
         width: 100
         height: 32
       isBreakpoint: 0
@@ -487,7 +487,7 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 195
+        x: 211
         y: 111.99219
         width: 100
         height: 32
@@ -588,7 +588,7 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 409
+        x: 425
         y: 204
         width: 116
         height: 32
@@ -866,7 +866,7 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 603
+        x: 619
         y: 322
         width: 100
         height: 48
@@ -1169,7 +1169,7 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 201
+        x: 217
         y: 189
         width: 100
         height: 32
@@ -1256,7 +1256,7 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 780
+        x: 796
         y: 337
         width: 100
         height: 32
@@ -1550,7 +1550,7 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 425
+        x: 441
         y: 394
         width: 100
         height: 32
@@ -1660,7 +1660,7 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 411
+        x: 427
         y: 273
         width: 100
         height: 48
@@ -1758,7 +1758,7 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 610
+        x: 626
         y: 198
         width: 102.5
         height: 16
