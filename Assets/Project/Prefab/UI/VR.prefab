@@ -33590,8 +33590,8 @@ MonoBehaviour:
       hideUnused: 0
       transitions:
       - fsmEvent:
-          name: FINISHED
-          isSystemEvent: 1
+          name: Go
+          isSystemEvent: 0
           isGlobal: 0
         toState: "\u6709\u6C92\u6709Go3D"
         linkStyle: 0
