@@ -441,7 +441,7 @@ GameObject:
   m_PrefabParentObject: {fileID: 1228038342700848, guid: 8854ff537e1bd134ea98a8b73f9f3b34,
     type: 2}
   m_PrefabInternal: {fileID: 201303753}
---- !u!1001 &1992614567
+--- !u!1001 &2058785965
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -538,6 +538,16 @@ Prefab:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114609286595913788, guid: f7a5500c3b7803647a7f7dd05ade3d25,
+        type: 2}
+      propertyPath: fsm.states.Array.data[1].actionData.fsmPropertyParams.Array.data[0].TargetObject.value
+      value: 
+      objectReference: {fileID: 773924903}
+    - target: {fileID: 114609286595913788, guid: f7a5500c3b7803647a7f7dd05ade3d25,
+        type: 2}
+      propertyPath: fsm.variables.objectVariables.Array.data[0].value
+      value: 
+      objectReference: {fileID: 773924903}
     - target: {fileID: 114927751352990560, guid: f7a5500c3b7803647a7f7dd05ade3d25,
         type: 2}
       propertyPath: fsm.states.Array.data[1].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
