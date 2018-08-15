@@ -256,3 +256,4 @@ MonoBehaviour:
   - AnimationFinish
   - GVR_Mode
   - VR_Mode
+  - Aim_Pick
