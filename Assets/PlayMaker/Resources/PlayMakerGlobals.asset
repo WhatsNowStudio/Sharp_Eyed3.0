@@ -257,3 +257,4 @@ MonoBehaviour:
   - GVR_Mode
   - VR_Mode
   - Aim_Pick
+  - Aim_Hover
