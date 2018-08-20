@@ -236,8 +236,8 @@ Camera:
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
   m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
+  m_HDR: 0
+  m_AllowMSAA: 0
   m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
@@ -538,8 +538,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 68
-        y: 199.99219
+        x: 73
+        y: 197.99219
         width: 121
         height: 32
       isBreakpoint: 0
@@ -566,7 +566,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101
-        actionIsOpen: 00010000
+        actionIsOpen: 00000000
         actionStartIndex: 0000000004000000060000000b000000
         actionHashCodes: 91d45a005ac85204b2cf1000a4c8bf00
         unityObjectParams: []
@@ -952,7 +952,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 010101010101
-        actionIsOpen: 010000000001
+        actionIsOpen: 000000000001
         actionStartIndex: 0000000004000000140000001a0000002400000029000000
         actionHashCodes: 5e69bb04d3bd7b05ef8d8504bd9b4401c34b4105a4c8bf00
         unityObjectParams: []
@@ -2988,8 +2988,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1195322262000032}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 6}
-  m_LocalScale: {x: 0.005, y: 0.005, z: 0.005}
+  m_LocalPosition: {x: 0, y: 0, z: 3}
+  m_LocalScale: {x: 0.0025, y: 0.0025, z: 0.0025}
   m_Children:
   - {fileID: 224841034403857688}
   - {fileID: 224966580534653608}
