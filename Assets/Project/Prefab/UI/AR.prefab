@@ -31384,7 +31384,7 @@ MonoBehaviour:
         - 
         - 
         - 
-        actionEnabled: 010101
+        actionEnabled: 010100
         actionIsOpen: 010101
         actionStartIndex: 00000000050000000a000000
         actionHashCodes: b2cf1000b2cf10005ac85204
@@ -31636,7 +31636,7 @@ MonoBehaviour:
         - 
         - 
         - 
-        actionEnabled: 010101
+        actionEnabled: 010100
         actionIsOpen: 010101
         actionStartIndex: 00000000050000000a000000
         actionHashCodes: b2cf1000b2cf10005ac85204
@@ -36883,7 +36883,7 @@ Canvas:
   m_GameObject: {fileID: 1476556894753218}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 1
+  m_RenderMode: 0
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -37493,8 +37493,8 @@ RectTransform:
   m_Father: {fileID: 224103712684121496}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 290, y: 0}
   m_SizeDelta: {x: 580, y: 0}
   m_Pivot: {x: 0.5, y: 1}
