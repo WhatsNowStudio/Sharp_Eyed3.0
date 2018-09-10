@@ -19157,7 +19157,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 58
-        y: 153
+        y: 105
         width: 100
         height: 32
       isBreakpoint: 0
@@ -19223,7 +19223,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 304
-        y: 165
+        y: 117
         width: 117.5
         height: 32
       isBreakpoint: 0
@@ -19473,8 +19473,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 504
-        y: 109
+        x: 500
+        y: 122
         width: 100
         height: 32
       isBreakpoint: 0
@@ -19590,8 +19590,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 712
-        y: 133
+        x: 666
+        y: 141
         width: 100
         height: 16
       isBreakpoint: 0
@@ -19665,7 +19665,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 61
-        y: 227
+        y: 179
         width: 100
         height: 16
       isBreakpoint: 0
@@ -19854,7 +19854,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -28262,8 +28262,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 61
-        y: 111
+        x: 51
+        y: 110
         width: 100
         height: 16
       isBreakpoint: 0
@@ -28345,8 +28345,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 277
-        y: 214
+        x: 293
+        y: 230
         width: 104.5
         height: 32
       isBreakpoint: 0
@@ -28513,8 +28513,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 62
-        y: 251
+        x: 78
+        y: 267
         width: 120.5
         height: 112
       isBreakpoint: 0
@@ -28581,7 +28581,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101
-        actionIsOpen: 00000001
+        actionIsOpen: 00000101
         actionStartIndex: 000000000f0000001200000020000000
         actionHashCodes: d9ade60371c75a0376d0e60188611604
         unityObjectParams: []
@@ -28808,8 +28808,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 279.5
-        y: 307
+        x: 295.5
+        y: 323
         width: 104.5
         height: 32
       isBreakpoint: 0
@@ -28970,8 +28970,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 460
-        y: 228
+        x: 476
+        y: 244
         width: 122
         height: 16
       isBreakpoint: 0
@@ -29134,8 +29134,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 451
-        y: 325
+        x: 467
+        y: 341
         width: 116
         height: 16
       isBreakpoint: 0
@@ -29213,8 +29213,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 428
-        y: 546
+        x: 444
+        y: 562
         width: 100
         height: 48
       isBreakpoint: 0
@@ -29310,8 +29310,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 268
-        y: 526
+        x: 284
+        y: 542
         width: 104.5
         height: 32
       isBreakpoint: 0
@@ -29424,8 +29424,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 585
-        y: 562
+        x: 601
+        y: 578
         width: 100
         height: 32
       isBreakpoint: 0
@@ -29523,8 +29523,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 588
-        y: 617
+        x: 604
+        y: 633
         width: 100
         height: 16
       isBreakpoint: 0
@@ -29602,8 +29602,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 283
-        y: 418
+        x: 299
+        y: 434
         width: 115
         height: 32
       isBreakpoint: 0
@@ -29716,8 +29716,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 429
-        y: 436
+        x: 445
+        y: 452
         width: 100
         height: 32
       isBreakpoint: 0
@@ -29805,8 +29805,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 580
-        y: 443
+        x: 596
+        y: 459
         width: 100
         height: 32
       isBreakpoint: 0
@@ -29910,8 +29910,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 268
-        y: 632
+        x: 284
+        y: 648
         width: 100
         height: 16
       isBreakpoint: 0
@@ -30109,8 +30109,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 267
-        y: 710.02344
+        x: 283
+        y: 726.02344
         width: 109
         height: 16
       isBreakpoint: 0
@@ -30324,31 +30324,41 @@ MonoBehaviour:
         paramDataPos: 000000000000000000000000000000000100000000000000010000000000000000000000000000000000000000000000000000000000000001000000020000000000000000000000010000000100000001000000
         paramByteDataSize: 000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000
     - name: "ItemMark\u5B9A\u4F4D"
-      description: 
+      description: "#\u5075\u6E2C\u96E2\u958BGVR\u6309\u9215"
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 529
-        y: 737
-        width: 118
-        height: 16
+        x: 697
+        y: 298
+        width: 129
+        height: 32
       isBreakpoint: 0
       isSequence: 0
       hideUnused: 0
-      transitions: []
+      transitions:
+      - fsmEvent:
+          name: Go
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: "\u4E00\u822CVR"
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
       actionData:
         actionNames:
         - HutongGames.PlayMaker.Actions.GetFsmInt
         - HutongGames.PlayMaker.Actions.GetChild
         - HutongGames.PlayMaker.Actions.SetParent
+        - HutongGames.PlayMaker.Actions.GetKeyDown
         customNames:
         - 
         - 
         - 
-        actionEnabled: 010101
-        actionIsOpen: 010101
-        actionStartIndex: 000000000500000009000000
-        actionHashCodes: 081bbf05184b5704ea32a105
+        - 
+        actionEnabled: 01010101
+        actionIsOpen: 01010101
+        actionStartIndex: 0000000005000000090000000d000000
+        actionHashCodes: 081bbf05184b5704ea32a105ff77a904
         unityObjectParams: []
         fsmGameObjectParams:
         - useVariable: 1
@@ -30444,18 +30454,25 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 0
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
         fsmVector2Params: []
         fsmVector3Params: []
         fsmColorParams: []
         fsmRectParams: []
         fsmQuaternionParams: []
-        stringParams: []
-        byteData: 00
+        stringParams:
+        - Go
+        byteData: 001b000000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 14000000120000001200000010000000010000001400000012000000120000001300000014000000130000001100000011000000
+        paramDataType: 14000000120000001200000010000000010000001400000012000000120000001300000014000000130000001100000011000000070000001700000011000000
         paramName:
         - gameObject
         - fsmName
@@ -30470,8 +30487,11 @@ MonoBehaviour:
         - parent
         - resetLocalPosition
         - resetLocalRotation
-        paramDataPos: 00000000000000000100000000000000000000000100000002000000030000000000000002000000010000000000000001000000
-        paramByteDataSize: 00000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000
+        - key
+        - sendEvent
+        - storeResult
+        paramDataPos: 00000000000000000100000000000000000000000100000002000000030000000000000002000000010000000000000001000000010000000000000002000000
+        paramByteDataSize: 00000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000040000000000000000000000
     events:
     - name: FINISHED
       isSystemEvent: 1
@@ -56010,7 +56030,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 78.78788, y: 0}
+  m_AnchoredPosition: {x: 80.8116, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224354399393968774
