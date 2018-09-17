@@ -1,0 +1,18 @@
+ID,original,tw,ch,en
+Instructions_AR_Title0,,掃描AR辨識圖,ARマーカーをスキャン,Scan AR recognition map
+Instructions_AR_Content0,,掃描辨識圖卡，即可觀看四大製程動畫。,ARマーカーをスキャンして、四つの加工プロセス・3Dアニメーションをご覧頂けます。,Scan the AR mark.You can watch the four process animation.
+Instructions_AR_Title1,,切換成3D模式,3Dモードに切り替え,Switch to 3D mode
+Instructions_AR_Content1,,切換3D功能，觀看四大製程動畫。,3Dモードに切り替えて、四つの加工プロセス・3Dアニメーションをご覧頂けます。,You can switch 3D mode and watch the four process animation.
+Instructions_AR_Title2,,切換四大製程,加工プロセス・3Dアニメの切り替え,Switch four process
+Instructions_AR_Content2,,點擊左下角四大製程狀態按鈕，切換四大製程動畫。,左下にある加工プロセス状態ボタンをクリックして、四つの加工プロセスを切り替えることが可能です。,Click the four process button and will able to switch the four process animation.
+PageDone,,開始,スタート,Start
+PageBack,,上一步,前へ戻る,Previous
+PageNext,,下一步,次へ進む,Next step
+Milling,,銑床,フライス盤,Milling
+TurningAndMilling,,車銑複合,旋削転削総合加工機,Turning and Milling
+HighSpeedEngraving,,高速雕刻,高速彫刻,High Speed Engraving
+ElectrolessPlating,,無電解鎳,無電解ニッケル,Electroless Nickel Plating
+AR_Title,,請掃描一個AR標示，或從AR切換至3D。,ARマーカーを一つ選んでスキャンしたり、或いは3Dモードに切り替え,Please scan an AR mark or switch the mode from AR to 3D.
+,,超音波清洗,超音波洗浄,Ultrasonic Cleaning
+,,熱脫脂,熱脱脂,Thermal Degreasing
+Loading,Loading...,讀取中...,読み込み中...,Loading...
