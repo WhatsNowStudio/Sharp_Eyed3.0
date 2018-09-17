@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Project/Scene/QA_Pad.unity
     guid: 9a588ee6be5d14c4dbe16adf463e0fff
+  - enabled: 1
+    path: Assets/Project/Scene/VR_Pad.unity
+    guid: 97c6f78c65e234248b9d2e7c166a3d67
   m_configObjects: {}
