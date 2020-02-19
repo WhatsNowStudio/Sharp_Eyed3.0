@@ -16,8 +16,9 @@ public class SwitchingtoVRmodeatruntime : MonoBehaviour
         if (String.Compare(XRSettings.loadedDeviceName, newDevice, true) != 0)
         {
             XRSettings.LoadDeviceByName(newDevice);
-            yield return null;
-            XRSettings.enabled = true;
+            yield return null;  
         }
+         
+     XRSettings.enabled = true;
     }
 }

@@ -19496,8 +19496,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: {fileID: 1647002011586062, guid: 8eca164458dcc54458509321c40b718e,
-            type: 2}
+          value: {fileID: 0}
         - useVariable: 1
           name: 
           tooltip: 
@@ -56578,9 +56577,9 @@ RectTransform:
   m_Father: {fileID: 224363845259939056}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -60, y: 1262}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 968, y: -391}
   m_SizeDelta: {x: 90, y: 110}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!224 &224029035879216358
@@ -57517,7 +57516,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 79.222404, y: 0}
+  m_AnchoredPosition: {x: 78.58671, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224354399393968774
@@ -57874,9 +57873,9 @@ RectTransform:
   m_Father: {fileID: 224363845259939056}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -791, y: 285}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 283, y: 212.2}
   m_SizeDelta: {x: 90, y: 110}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!224 &224461475762103896
